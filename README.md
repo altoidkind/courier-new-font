@@ -1,4 +1,4 @@
-# courier-new-fonе
+# courier-new-font
 Courier New font
 
 jsDelivr CDN:
